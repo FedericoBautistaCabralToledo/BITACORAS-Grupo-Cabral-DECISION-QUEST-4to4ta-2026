@@ -3,3 +3,4 @@ Bitacoras del Proyecto Interdisciplinario 2026 ET32 para Cabral Toledo Federico 
 
 El dia de hoy 26/10, yo hice la parte del dialogo de nuestro proyecto y algunas cositas mas, y mis compañeros tambien ya hicieron sus
 respectivas partes. 
+- Agrege sprites
